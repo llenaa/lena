@@ -1,3 +1,3 @@
-# lena
+# lena_BIO392
 first repository
-lena_BIO392
+
