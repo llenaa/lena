@@ -10,7 +10,7 @@ so on)?
 
   The Progenetix database provides an overview of mutation data in cancer, with a focus on copy number abnormalities (CNV / CNA), for all types of human malignancies. The data is based on individual sample data from currently 142063 samples. It includes data of 834 different cancer tpes, mapped to a variety of technical and medical categories.
   A possible use of the databank can be the search for local copy number aberrations, involving for example a gene, and the exploration of cancer types with these CNVs. The Search Page provides example use cases for designing queries. The results contain statistics but also visualization and download options[^1].
-  [^1]: [https://progenetix.org/]
+  [^1]: https://progenetix.org/
 
 - Describe NCIt, ICOD, UBERON codes, and their relationships.
 
@@ -27,6 +27,8 @@ UBERON allows cross-species anatomical structural ontology. In a resource update
   
   CNV frequencies are higher if the CNV is older and heritable. On the image the cancer type classification are sorted by the frequency of matching smaples in the used subset. Estimating the frequency distribution of CNVs is useful to characterize new types of genetic variation [^2].
 [^2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562008/
+<img width="773" alt="Screen Shot 2022-09-21 at 15 52 45" src="https://user-images.githubusercontent.com/113988381/191522845-2e55bb41-fb25-4415-8363-2b2c2df28eed.png">
+
 
 - What are APIs and how to use APIs in progenetix?
 
@@ -36,8 +38,7 @@ open data to be the standard.
 
 - How does progenetix visualise CNA profiles?
 
-  The visualization can be customized via visulization options. For example, one could watch put for selected chromosomal regions or group the data 
-  by subset and studies. Alternatively, users can also upload their own data for single or multiple sam- ples to visualize genome-wide CNA.
+  The visualization can be customized via visulization options. For example, one could watch out for selected chromosomal regions or group the data by studies and subset. As an alternative, users can upload their own data for single or even multiple samples to visualize genome-wide CNA.
                                
 - What do you think should be improved in progenetix?
   
