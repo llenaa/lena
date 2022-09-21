@@ -2,7 +2,7 @@
 
 - What is CNV/CNA?
   - CNA = Copy number aberrations
-  - CNV= Copy number variation
+  - CNV = Copy number variation
 
 
 - How will you describe or introduce progenetix (scale, data source, cancer types and
@@ -25,7 +25,7 @@ UBERON allows cross-species anatomical structural ontology. In a resource update
 
   <img width="366" alt="Screen Shot 2022-09-21 at 14 34 48" src="https://user-images.githubusercontent.com/113988381/191505328-81fdfe02-9378-49f1-b8bc-dabdc7eadad5.png">
   
-  CNV frequencies are higher if the CNV is older and heritable. On the image the cancer type classification are sorted by the frequency of matching smaples in the used subset. Estimating the frequency distribution of CNVs is useful to characterize new types of genetic variation [^2]
+  CNV frequencies are higher if the CNV is older and heritable. On the image the cancer type classification are sorted by the frequency of matching smaples in the used subset. Estimating the frequency distribution of CNVs is useful to characterize new types of genetic variation [^2].
 [^2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562008/
 
 - What are APIs and how to use APIs in progenetix?
@@ -41,7 +41,7 @@ open data to be the standard.
                                
 - What do you think should be improved in progenetix?
   
-  The project overall could be communicated in a more accessible manner for the public since it serves everyone and is open source. Adding a small section that is inviting and understadable would be nice. The geographic distribution, as seen on the image below, of the authors also shows that many countries and continents are underrepresented. In my understanding some CNVs are probably not distributed too evenly and therefore it would be important to include data from everywhere in order to serve people equally and take care of everyones health with the same efforts.
+  The project overall could be communicated in a more accessible manner for the public since it serves everyone and is open source. Adding a small section that is inviting and understadable would be nice. The geographic distribution, as seen on the image below (Geographic distribution by corresponding author of the genomic array, chromosmal CGH and whole genome/exome based cancer genome datasets from the 3373 listed publications) , of the authors also shows that many countries and continents are underrepresented. In my understanding some CNVs are probably not distributed too evenly and therefore it would be important to include data from everywhere in order to serve people equally and take care of everyones health with the same efforts.
   
 <img width="628" alt="Screen Shot 2022-09-21 at 15 16 52" src="https://user-images.githubusercontent.com/113988381/191513980-b7ab975d-23ca-4fce-b2d9-6858d88c2ee2.png">
 
